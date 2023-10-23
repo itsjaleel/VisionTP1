@@ -2,7 +2,7 @@
 
 1-d-11) La distribution du bruit gaussien ressemble à une distribution en forme de cloche, ce qui est caractéristique d'une distribution gaussienne (normale). La forme de cette distribution fait penser à une cloche, d'où le nom de distribution gaussienne ou normale.
 
-Si la distribution est parfaitement gaussienne, elle ressemble à une courbe en forme de cloche, symétrique autour de sa moyenne, avec la majorité des valeurs concentrées autour de la moyenne et des queues qui s'étendent symétriquement de part et d'autre.
+
 
 2-b) Il y a 916 images dans le dossier.
 
